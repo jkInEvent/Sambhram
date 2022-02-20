@@ -64,3 +64,4 @@ already been shown that if there exists a state feedback K, such that it stabili
 Kharitonov plants of the family (K 1 , K 2 , K 3 , K 4 ) simultaneously, then K would stabilize the
 entire interval plant family.
 
+<div align="center"><img src="https://render.githubusercontent.com/render/math?math=P(x)%20%3D%20%5Cfrac%7B1%7D%7B%5Csigma%5Csqrt%7B2%5Cpi%7D%7D%20e%5E%7B%5Cfrac%7B-(x-%5Cmu)%5E2%7D%7B2%5Csigma%5E2%7D%7D%0D"></div>
