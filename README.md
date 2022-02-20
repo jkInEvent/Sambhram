@@ -66,6 +66,9 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 
 MIT OpenCourseWare   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)   </br>
+
+A different way to understand classical Hamiltonian mechanics in terms of determinism and reversibility. 
+.Understanding Hamiltonian mechanics: (2)](https://youtu.be/UTSJiYV4rmw)  </br>
 [Understanding Hamiltonian mechanics by  Gabriele Carcassi](https://youtu.be/FGQddvjP19w) </br>
 
 
