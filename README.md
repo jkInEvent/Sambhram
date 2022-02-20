@@ -65,11 +65,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 ###  Hamiltonian 
 
 
-MIT OpenCourseWare
-
-   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)
-   
-   [ Hamiltonian formulation](https://youtu.be/8u0Mfs1m_r8)
+MIT OpenCourseWare   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)  and    [ Hamiltonian formulation](https://youtu.be/8u0Mfs1m_r8)
 
 
 
