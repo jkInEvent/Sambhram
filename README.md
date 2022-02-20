@@ -6,13 +6,13 @@
 
 
 ```diff
-- text in red
-+ text in green
+- Industry 4.0 is waiting for you !!
++ Get Ready !!!!
 ! text in orange
 # text in gray
 ```
 
-Industry 4.0 is waiting for you !!
-Get Ready !!!!
+
+
 
 <font size="+3"> Description </font>
