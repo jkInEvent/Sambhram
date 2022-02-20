@@ -12,9 +12,9 @@
 ### Problems and Challenges !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ```diff
-+   Puah aside 
-&   get merged
--  cross over
+   Puah aside 
+   get merged
+  cross over
 ```
 
 
