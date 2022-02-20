@@ -45,7 +45,7 @@
 
 
 
-![formula](https://render.githubusercontent.com/render/math?math=h(t)=   jj1  \\ jj2   \\  jj1  \\ j2   \\      \right.   )
+![image](https://user-images.githubusercontent.com/58679469/154838292-fac5dbc5-c338-4891-b167-60199171e001.png)
 
 
 
