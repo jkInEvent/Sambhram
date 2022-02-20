@@ -60,7 +60,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 “Given in a vertical plane two points A and B, assign to the moving (body) M, the path AMB, by means of which — descending by its own weight and beginning to be moved (by gravity) from point A — it would arrive at the other point B in the shortest time.”
 
-{Problem ](https://www.linkedin.com/posts/jayakumarsingaram_galileo-activity-6701359279909302272-8xdx) 
+[Problem ](https://www.linkedin.com/posts/jayakumarsingaram_galileo-activity-6701359279909302272-8xdx) 
 
 ###  Hamiltonian 
 
