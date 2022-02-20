@@ -72,5 +72,5 @@ It is a collection of conditions that must be satisfied by solutions of a class 
 [on “AI and ML ]( https://www.linkedin.com/posts/jayakumarsingaram_amazing-experience-while-working-with-young-activity-6832681096346525696-NDFF)  and  [ Course Workflow ](https://www.jkuse.com/home/jkevents/baranovichi)
 
 2. Brachistochrone problem
-[ Ref 1 ](https://www.cantorsparadise.com/the-famous-problem-of-the-brachistochrone-8b955d24bdf7) </br>
+[ Ref 1 ](https://www.cantorsparadise.com/the-famous-problem-of-the-brachistochrone-8b955d24bdf7) and 
 [ ref 2 ](https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone/)
