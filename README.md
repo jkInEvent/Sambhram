@@ -64,6 +64,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 ###  Hamiltonian 
 
+[Introduction to Lagrangian Mechanics](https://youtu.be/8UtnDaGHpq0)
 
 MIT OpenCourseWare   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)   </br>
 
