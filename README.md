@@ -73,4 +73,4 @@ It is a collection of conditions that must be satisfied by solutions of a class 
 
 2. Brachistochrone problem
 [ Ref 1 ](https://www.cantorsparadise.com/the-famous-problem-of-the-brachistochrone-8b955d24bdf7) and 
-[ Ref 2 ](https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone/)
+[ Ref 2 ](https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone/) and [ Ref 3](https://mathworld.wolfram.com/BrachistochroneProblem.html)
