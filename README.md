@@ -2,7 +2,7 @@
 
 # 1st semester MBA Induction 
 
-22nd february 2022 {
+22nd february 2022 </br>
 [but then with Kalam sir](https://www.linkedin.com/posts/jayakumarsingaram_kalam-sir-wish-madras-institute-of-technology-activity-6854675700486672384-QJrM)
 
 ### Industry 4.0 is waiting for you !!
