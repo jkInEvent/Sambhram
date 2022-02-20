@@ -83,7 +83,7 @@ It is a collection of conditions that must be satisfied by solutions of a class 
 
 [![](https://mermaid.ink/img/pako:eNqdkMFqwzAMhl9F-NRC-wI5DLYksJ5aaG9xDyZWVoMtG1suy9q--5SyXXac8MHCn74f66bGaFE16iObdIFTpwmkXoduJhPcaDwc58IYzrDdvshLu9pRYUNyMNYCjsaMAaX3ECd4lyHPkZwRT_-ZMpbiIq2f2rehjcQ5ethRqvwP5V9juxi6FeyvmOGA2UW7jJxcwDU8iW4JuZfor3iHftgndsF94VmT2qiAORhn5fu3BdaKLxKsVSNXi5OpnrXS9BC0JmsYe-s4ZtVMxhfcKFM5HmcaVcO54i_UOSPbDD_U4xs4Cnig)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqdkMFqwzAMhl9F-NRC-wI5DLYksJ5aaG9xDyZWVoMtG1suy9q--5SyXXac8MHCn74f66bGaFE16iObdIFTpwmkXoduJhPcaDwc58IYzrDdvshLu9pRYUNyMNYCjsaMAaX3ECd4lyHPkZwRT_-ZMpbiIq2f2rehjcQ5ethRqvwP5V9juxi6FeyvmOGA2UW7jJxcwDU8iW4JuZfor3iHftgndsF94VmT2qiAORhn5fu3BdaKLxKsVSNXi5OpnrXS9BC0JmsYe-s4ZtVMxhfcKFM5HmcaVcO54i_UOSPbDD_U4xs4Cnig)
 
-# Making of a CEO; 
+# Making of a CEO 
 Mr. Kanwal Rekhi from IIT-B, "engineer to CEO of engineering company".  [Part 1](https://www.linkedin.com/posts/jayakumarsingaram_making-of-a-ceo-part-1-activity-6584617651090350080-DRWc)
 
 # Reference
