@@ -63,6 +63,9 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 [Problem ](https://www.linkedin.com/posts/jayakumarsingaram_galileo-activity-6701359279909302272-8xdx) 
 
 ###  Hamiltonian 
+ Lagrangian  = 
+![formula](https://render.githubusercontent.com/render/math?math=L(q_i, \dot{q}_i))
+
 
 ### Pontryagin's Maximum Principle 
 It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
