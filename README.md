@@ -66,7 +66,8 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 
 MIT OpenCourseWare   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)   </br>
-NPTEL [ Hamiltonian formulation](https://youtu.be/GOkZs2RZMQY)
+[Understanding Hamiltonian mechanics by  Gabriele Carcassi](https://youtu.be/FGQddvjP19w) </br>
+
 
 
 
