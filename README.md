@@ -75,10 +75,13 @@ A different way to understand classical Hamiltonian mechanics in terms of determ
 .[Understanding Hamiltonian mechanics: (2)](https://youtu.be/UTSJiYV4rmw)  </br>
 [Understanding Hamiltonian mechanics by  Gabriele Carcassi](https://youtu.be/FGQddvjP19w) </br>
 
-[Pontryagin's Principle (CEE lecture)](https://youtu.be/8hPZ5WEWHPk)
+
 
 
 ### Pontryagin's Maximum Principle 
+
+[Pontryagin's Principle (CEE lecture)](https://youtu.be/8hPZ5WEWHPk)
+
 It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
 
 [ Michał Jóźwikowski](https://youtu.be/V04N9X3NxYA)
