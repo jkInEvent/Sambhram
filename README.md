@@ -36,4 +36,8 @@
 ### Optimal Path
 
 [![](https://mermaid.ink/img/pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)
+ 
+### John Von Neumann
+"Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann
+![image](https://user-images.githubusercontent.com/58679469/154835512-595dd430-8606-4a3d-8b5c-0de33f25922c.png)
 
