@@ -63,9 +63,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 [Problem ](https://www.linkedin.com/posts/jayakumarsingaram_galileo-activity-6701359279909302272-8xdx) 
 
 ###  Hamiltonian 
- Lagrangian  = 
- 
-![formula](https://render.githubusercontent.com/render/math?math=x^2+y^2)
+ Lagrangian  = ![formula](https://render.githubusercontent.com/render/math?math=x^2 + y^2)
 
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
 
