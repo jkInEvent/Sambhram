@@ -7,13 +7,11 @@
 
 ```diff
 - Industry 4.0 is waiting for you !!
-+ Get Ready !!!!
+- Get Ready !!!!
 ```
 
 
-```diff
-! text in orange
-# text in gray
+
 ```
 
 
