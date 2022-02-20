@@ -64,6 +64,8 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 ###  Hamiltonian 
 
+[![](https://mermaid.ink/img/pako:eNp1jz0OwjAMha8SeQKpvUAGJKBIDN1gIwxW47aR8lOlzoCq3p0ElYEBT7bf957sBbqgCSQMEadR3BvlRa7jo8W88YNBL_oQHVozO_EUdX3I8mnX0kBeRxKcqflDsAl-X-z_1c1-3okrOmM5-J_8YocKHOXZ6HzUUuIU8EiOFMjcauoxWVag_JrRNGlkumjDIYLs0c5UASYOt5fvQHJM9IUaUz5yG7W-AYwZVLQ)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNp1jz0OwjAMha8SeQKpvUAGJKBIDN1gIwxW47aR8lOlzoCq3p0ElYEBT7bf957sBbqgCSQMEadR3BvlRa7jo8W88YNBL_oQHVozO_EUdX3I8mnX0kBeRxKcqflDsAl-X-z_1c1-3okrOmM5-J_8YocKHOXZ6HzUUuIU8EiOFMjcauoxWVag_JrRNGlkumjDIYLs0c5UASYOt5fvQHJM9IUaUz5yG7W-AYwZVLQ)
+
 [Introduction to Lagrangian Mechanics](https://youtu.be/8UtnDaGHpq0) </br>
 [Lagrangian Mechanics: How powerful is it?](https://youtu.be/MIBfKJHMWHU)
 
