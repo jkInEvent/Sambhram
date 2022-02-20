@@ -51,6 +51,10 @@
 
 [![](https://mermaid.ink/img/pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA) 
 
+#### Lev Semenovich Pontryagin 
+(Russian: Лев Семёнович Понтрягин, also written Pontriagin or Pontrjagin) (3 September 1908 – 3 May 1988 </br>
+
+Pontryagin worked in optimal control theory. His maximum principle is fundamental to the modern theory of optimization. He also introduced there the idea of a bang-bang principle, to describe situations where the applied control at each moment is either the maximum 'steer', or non
 
 ### Issue of Crash
 
