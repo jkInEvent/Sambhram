@@ -4,10 +4,9 @@
 
 22nd february 2022 
 
-**
 ```diff
 -   Industry 4.0 is waiting for you !!
--  **Get Ready**
-**```
+-  Get Ready
+```
 
-**Get Ready**
+
