@@ -33,39 +33,15 @@
 [![](https://mermaid.ink/img/pako:eNo9jrEOwjAMRH_F8tyhCFgyw4gYgpiymMbQiCSugjOgin8nIMpNZ70nnWccxDManAKDBo0MYEOqkTRIhpNIBMvqMrQ4PE6cwUotAzsEA5u-X9CZs5cCUYY7-y9cbf_wQJ4htMNSuoyF0ldY__gS7DBxSRR8e2j-MIc6cmpbplXPV6pRHbr8amqdPCnvfVApaK4UH9whVRX7zAMaLZUXaRfo1kZ_1usN0WhMhw)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNo9jrEOwjAMRH_F8tyhCFgyw4gYgpiymMbQiCSugjOgin8nIMpNZ70nnWccxDManAKDBo0MYEOqkTRIhpNIBMvqMrQ4PE6cwUotAzsEA5u-X9CZs5cCUYY7-y9cbf_wQJ4htMNSuoyF0ldY__gS7DBxSRR8e2j-MIc6cmpbplXPV6pRHbr8amqdPCnvfVApaK4UH9whVRX7zAMaLZUXaRfo1kZ_1usN0WhMhw)
 
 
+### Optimal Path
 
+[![](https://mermaid.ink/img/pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)
  
 ### John Von Neumann
 "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann
 ![image](https://user-images.githubusercontent.com/58679469/154835512-595dd430-8606-4a3d-8b5c-0de33f25922c.png)
 
-### State Transfer Problem
+### Pontryagin's Maximum Principle 
+It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
 
-
-
-![image](https://user-images.githubusercontent.com/58679469/154838292-fac5dbc5-c338-4891-b167-60199171e001.png)
-
-
-
-### Optimal Path
-
-[![](https://mermaid.ink/img/pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA) 
-
-#### Lev Semenovich Pontryagin 
-(Russian: Лев Семёнович Понтрягин, also written Pontriagin or Pontrjagin) (3 September 1908 – 3 May 1988 </br>
-
-Pontryagin worked in optimal control theory. His maximum principle is fundamental to the modern theory of optimization. He also introduced there the idea of a bang-bang principle, to describe situations where the applied control at each moment is either the maximum 'steer', or non
-
-### Issue of Crash
-
-![image](https://user-images.githubusercontent.com/58679469/154836935-f2a4f5f2-22b9-434e-ab6f-074e6b5a9d92.png)
-
-Above result is given in 
-[Link](https://web.iitd.ac.in/~janas/courses/material/eel879/sp_topics_01.pdf)
-
-Consider an interval plant family F, represented in the phase variable canonical form. It has
-already been shown that if there exists a state feedback K, such that it stabilizes all the four
-Kharitonov plants of the family (K 1 , K 2 , K 3 , K 4 ) simultaneously, then K would stabilize the
-entire interval plant family.
-
-
+[![](https://mermaid.ink/img/pako:eNqFkMFqwzAMhl9F-NRC-wI5DLY4sJ46aG9xDyJWVoMtB1suy9q--5yyXXqZ8MHCn74f66qGaEk16jPhdIajNgy1Xns9MwY3oIfDnIXCCbbbl_rSrnacBbkeiiWD4yFRoNp7iCO81yEvkR1WT_c1JcrZRV4_tG99G1lS9LDjqch_SvTyrHw2totBr2B_oQQflFy0y8jRBVrDg9BLyC1Hf6EbdP1-EhfcN50Mq40KlAI6W79_XWCj5FyDjWrq1dKIxYtRhu8VLZNFoc46iUk1I_pMG4VF4mHmQTWSCv1B2mHdZvil7j8373ig)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqFkMFqwzAMhl9F-NRC-wI5DLY4sJ46aG9xDyJWVoMtB1suy9q--5yyXXqZ8MHCn74f66qGaEk16jPhdIajNgy1Xns9MwY3oIfDnIXCCbbbl_rSrnacBbkeiiWD4yFRoNp7iCO81yEvkR1WT_c1JcrZRV4_tG99G1lS9LDjqch_SvTyrHw2totBr2B_oQQflFy0y8jRBVrDg9BLyC1Hf6EbdP1-EhfcN50Mq40KlAI6W79_XWCj5FyDjWrq1dKIxYtRhu8VLZNFoc46iUk1I_pMG4VF4mHmQTWSCv1B2mHdZvil7j8373ig)
