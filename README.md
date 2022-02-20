@@ -33,13 +33,7 @@
 [![](https://mermaid.ink/img/pako:eNo9jrEOwjAMRH_F8tyhCFgyw4gYgpiymMbQiCSugjOgin8nIMpNZ70nnWccxDManAKDBo0MYEOqkTRIhpNIBMvqMrQ4PE6cwUotAzsEA5u-X9CZs5cCUYY7-y9cbf_wQJ4htMNSuoyF0ldY__gS7DBxSRR8e2j-MIc6cmpbplXPV6pRHbr8amqdPCnvfVApaK4UH9whVRX7zAMaLZUXaRfo1kZ_1usN0WhMhw)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNo9jrEOwjAMRH_F8tyhCFgyw4gYgpiymMbQiCSugjOgin8nIMpNZ70nnWccxDManAKDBo0MYEOqkTRIhpNIBMvqMrQ4PE6cwUotAzsEA5u-X9CZs5cCUYY7-y9cbf_wQJ4htMNSuoyF0ldY__gS7DBxSRR8e2j-MIc6cmpbplXPV6pRHbr8amqdPCnvfVApaK4UH9whVRX7zAMaLZUXaRfo1kZ_1usN0WhMhw)
 
 
+### Optimal Path
 
-"""
-graph LR;
-    A--> B & C & D;
-    B--> A & E;
-    C--> A & E;
-    D--> A & E;
-    E--> B & C & D;
-"""
+[![](https://mermaid.ink/img/pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqNkL0OgkAQhF-FbC0F2F1ho_YaS46QDbfIGeDIsWdiCO_u8ZcYpXCr2W8ns8n0kBtFIKBjZDppvFusw2csm8BPcrHmQTmnQRgeAt1onvmoJpQgZ1HH2TX9OrTIZRbNcNYTPlrsyh86yXgrIf7wxlsP_0rZz3BZtmLWgR3UZGvUylfSjzcJXFJNEoSXigp0FUuQzeCtrlW-tLPSbCyIAquOdoCOze3V5CDYOlpNS7OLa3gDAPZzOA)
 
