@@ -45,7 +45,7 @@
 
 
 
-![formula](https://render.githubusercontent.com/render/math?math=h(t)= \left\{
+![formula](https://render.githubusercontent.com/render/math?math=h(t)=\left\{
 \begin{array}
 {cc}
   \frac{1}{T_s} \left( 1 + \beta \left( \frac{4}{\pi}-1 \right) \right)  & t = 0 \\
