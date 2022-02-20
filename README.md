@@ -41,3 +41,15 @@
 "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann
 ![image](https://user-images.githubusercontent.com/58679469/154835512-595dd430-8606-4a3d-8b5c-0de33f25922c.png)
 
+### State Transfer Problem
+
+
+
+![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+
+
+![image](https://user-images.githubusercontent.com/58679469/154836935-f2a4f5f2-22b9-434e-ab6f-074e6b5a9d92.png)
+
+Above result is given in 
+[Link](https://web.iitd.ac.in/~janas/courses/material/eel879/sp_topics_01.pdf)
+
