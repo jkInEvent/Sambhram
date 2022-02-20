@@ -45,14 +45,7 @@
 
 
 
-![formula](https://render.githubusercontent.com/render/math?math=h(t)= \left\{
-\begin{array}{c}
- jj1  \\
-jj2   \\
- jj1  \\
-jj2   \\
-  \end{array} 
- \right.   )
+![formula](https://render.githubusercontent.com/render/math?math=h(t)= \left\{ \begin{array}{c}  jj1  \\ jj2   \\  jj1  \\ j2   \\   \end{array}   \right.   )
 
 
 
