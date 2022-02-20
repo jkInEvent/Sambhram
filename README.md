@@ -11,6 +11,12 @@
 ```
 
 
+```diff
+! text in orange
+# text in gray
+```
+
+
 
 
 
