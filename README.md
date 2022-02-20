@@ -45,7 +45,26 @@
 
 
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i\pi}=-1)
+![formula](https://render.githubusercontent.com/render/math?math=h(t)= \left\{
+\begin{array}
+{cc}
+  \frac{1}{T_s} \left( 1 + \beta \left( \frac{4}{\pi}-1 \right) \right)  & t = 0 \\
+  \frac{\beta}{T_s\sqrt 2} \left[ \left( 1 + \frac{2}{\pi} \right)
+                sin \left( \frac{\pi}{4 \beta} \right)  +
+                \left( 1 - \frac{2}{\pi} \right)
+                cos \left( \frac{\pi}{4 \beta} \right) 
+           \right]   &   t = \pm \frac{T_s}{4\beta} \\
+ \frac{1}{T_s}  \frac{
+    sin \left[ \pi \frac{ t}{T_s}\left( 1 - \beta \right)   \right] +
+   4 \beta \frac{ t}{T_s} cos \left[ \pi \frac{ t}{T_s}\left( 1 + \beta \right)   \right]
+ }
+ { \pi \frac{ t}{T_s} \left[ 1 -   \left( 4 \beta \frac{ t}{T_s} \right)^2 \right]}   & \quad\mathrm{otherwise}\quad
+ \end{array} 
+ \right. )
+
+
+
+ 
 
 
 ### Issue of Crash
