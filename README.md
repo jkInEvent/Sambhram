@@ -42,6 +42,8 @@
 "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann
 ![image](https://user-images.githubusercontent.com/58679469/154835512-595dd430-8606-4a3d-8b5c-0de33f25922c.png)
 
+[Kolmogorov](https://www.linkedin.com/posts/jayakumarsingaram_i-decided-to-go-into-science-where-only-activity-6893940681103015936-2BMg) 
+
 ### Pontryagin's Maximum Principle 
 It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
 
