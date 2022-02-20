@@ -42,6 +42,12 @@
 "Young man, in mathematics you don't understand things. You just get used to them." - John Von Neumann
 ![image](https://user-images.githubusercontent.com/58679469/154835512-595dd430-8606-4a3d-8b5c-0de33f25922c.png)
 
+###  Kolmogorov
+
+```diff
++  I decided to go into science, where only one proof was enough for the final conclusion
+```
+
 [Kolmogorov](https://www.linkedin.com/posts/jayakumarsingaram_i-decided-to-go-into-science-where-only-activity-6893940681103015936-2BMg) 
 
 ### Pontryagin's Maximum Principle 
