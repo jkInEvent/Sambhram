@@ -81,6 +81,8 @@ A different way to understand classical Hamiltonian mechanics in terms of determ
 ### Pontryagin's Maximum Principle 
 It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
 
+[ Michał Jóźwikowski](https://youtu.be/V04N9X3NxYA)
+
 [![](https://mermaid.ink/img/pako:eNqdkMFqwzAMhl9F-NRC-wI5DLYksJ5aaG9xDyZWVoMtG1suy9q--5SyXXac8MHCn74f66bGaFE16iObdIFTpwmkXoduJhPcaDwc58IYzrDdvshLu9pRYUNyMNYCjsaMAaX3ECd4lyHPkZwRT_-ZMpbiIq2f2rehjcQ5ethRqvwP5V9juxi6FeyvmOGA2UW7jJxcwDU8iW4JuZfor3iHftgndsF94VmT2qiAORhn5fu3BdaKLxKsVSNXi5OpnrXS9BC0JmsYe-s4ZtVMxhfcKFM5HmcaVcO54i_UOSPbDD_U4xs4Cnig)](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNqdkMFqwzAMhl9F-NRC-wI5DLYksJ5aaG9xDyZWVoMtG1suy9q--5SyXXac8MHCn74f66bGaFE16iObdIFTpwmkXoduJhPcaDwc58IYzrDdvshLu9pRYUNyMNYCjsaMAaX3ECd4lyHPkZwRT_-ZMpbiIq2f2rehjcQ5ethRqvwP5V9juxi6FeyvmOGA2UW7jJxcwDU8iW4JuZfor3iHftgndsF94VmT2qiAORhn5fu3BdaKLxKsVSNXi5OpnrXS9BC0JmsYe-s4ZtVMxhfcKFM5HmcaVcO54i_UOSPbDD_U4xs4Cnig)
 
 # Making of a CEO 
