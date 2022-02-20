@@ -54,6 +54,14 @@
 
 [Kolmogorov](https://www.linkedin.com/posts/jayakumarsingaram_i-decided-to-go-into-science-where-only-activity-6893940681103015936-2BMg) 
 
+# Brachistochrone Problem
+
+In June 1696, the renowned mathematician Johann Bernoulli published in the Acta Eruditorum, the first German scientific periodical, the following problem:
+
+“Given in a vertical plane two points A and B, assign to the moving (body) M, the path AMB, by means of which — descending by its own weight and beginning to be moved (by gravity) from point A — it would arrive at the other point B in the shortest time.”
+
+{Problem ](https://www.linkedin.com/posts/jayakumarsingaram_galileo-activity-6701359279909302272-8xdx) 
+
 ### Pontryagin's Maximum Principle 
 It is a collection of conditions that must be satisfied by solutions of a class of optimization problems involving dynamic constraints called optimal control problems
 
@@ -63,4 +71,6 @@ It is a collection of conditions that must be satisfied by solutions of a class 
 1. Baranovichi State University </br>
 [on “AI and ML ]( https://www.linkedin.com/posts/jayakumarsingaram_amazing-experience-while-working-with-young-activity-6832681096346525696-NDFF)  and  [ Course Workflow ](https://www.jkuse.com/home/jkevents/baranovichi)
 
-
+2. Brachistochrone problem
+[ Ref 1 ](https://www.cantorsparadise.com/the-famous-problem-of-the-brachistochrone-8b955d24bdf7) </br>
+[ ref 2 ](https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone/)
