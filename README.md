@@ -5,7 +5,12 @@
 22nd february 2022 
 
 
-<font size="+1"> Description </font>
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
 Industry 4.0 is waiting for you !!
 Get Ready !!!!
