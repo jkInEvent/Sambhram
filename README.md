@@ -64,6 +64,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 
 ###  Hamiltonian 
  Lagrangian  = 
+ 
 ![formula](https://render.githubusercontent.com/render/math?math=x^2 + y^2 )
 
 
