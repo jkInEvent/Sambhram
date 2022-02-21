@@ -70,7 +70,7 @@ In June 1696, the renowned mathematician Johann Bernoulli published in the Acta 
 [Lagrangian Mechanics: How powerful is it?](https://youtu.be/MIBfKJHMWHU)
 
 MIT OpenCourseWare   [Lagrangian formulation](https://youtu.be/zhk9xLjrmi4)   </br>
-[Least Action Path for L] (https://youtu.be/VCHFCXgYdvY)
+[Least Action Path for L](https://youtu.be/VCHFCXgYdvY)
 
 A different way to understand classical Hamiltonian mechanics in terms of determinism and reversibility.  </br>
 .[Understanding Hamiltonian mechanics: (2)](https://youtu.be/UTSJiYV4rmw)  </br>
