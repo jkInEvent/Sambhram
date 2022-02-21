@@ -95,6 +95,8 @@ It is a collection of conditions that must be satisfied by solutions of a class 
 # Making of a CEO 
 Mr. Kanwal Rekhi from IIT-B, "engineer to CEO of engineering company".  [Part 1](https://www.linkedin.com/posts/jayakumarsingaram_making-of-a-ceo-part-1-activity-6584617651090350080-DRWc)
 
+[Rekhi Law 2 ](https://www.linkedin.com/pulse/rekhi-law-2-jayakumar-singaram/)
+
 # Reference
 1. Baranovichi State University </br>
 [on “AI and ML ]( https://www.linkedin.com/posts/jayakumarsingaram_amazing-experience-while-working-with-young-activity-6832681096346525696-NDFF)  and  [ Course Workflow ](https://www.jkuse.com/home/jkevents/baranovichi)
