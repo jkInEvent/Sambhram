@@ -76,6 +76,9 @@ A different way to understand classical Hamiltonian mechanics in terms of determ
 [Understanding Hamiltonian mechanics by  Gabriele Carcassi](https://youtu.be/FGQddvjP19w) </br>
 
 
+Hailtonian appears to be safe function to use in modelling Business  company.
+May Dynamical model of Budiness company and constructed Hamiltonian 
+can be used to dimulate Company progress in time axis.
 
 
 ### Pontryagin's Maximum Principle 
