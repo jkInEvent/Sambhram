@@ -104,3 +104,16 @@ Mr. Kanwal Rekhi from IIT-B, "engineer to CEO of engineering company".  [Part 1]
 2. Brachistochrone problem
 [ Ref 1 ](https://www.cantorsparadise.com/the-famous-problem-of-the-brachistochrone-8b955d24bdf7) and 
 [ Ref 2 ](https://mathshistory.st-andrews.ac.uk/HistTopics/Brachistochrone/) and [ Ref 3](https://mathworld.wolfram.com/BrachistochroneProblem.html)
+
+3. [variational calculus]https://www.youtube.com/watch?v=SQLxrr9N8zM)
+![image](https://user-images.githubusercontent.com/58679469/155264791-19622d08-c8f2-4584-9ddd-ca0995f8bde3.png)
+4. nxt
+5. 
+ 
+ 
+
+
+ 
+ 
+
+
