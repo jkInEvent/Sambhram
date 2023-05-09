@@ -13,7 +13,7 @@
 ### Problems and Challenges !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ```diff
-!  Puah aside 
+!  Push aside 
 +  get merged
 -  cross over
 ```
